@@ -1,0 +1,17 @@
+Things to modify in a new system:
+1. git
+    a. global_gitignore - Put this in github repo
+2. vim - Import .vim folder from repo
+3. gvim
+4. Tweaks application
+5. Gestures for backing in browser etc.
+6. Intellij - Store the .ideavimrc file in github
+7. Java latest version
+8. Python (2 & 3)
+    a. Pandas
+    b. Virtual environments for python 2 and python 3
+    c. pip?
+    d. Anaconda?
+    e. sklearn?
+
+Try creating script which runs some of this?
