@@ -7,11 +7,13 @@ Things to modify in a new system:
 5. Gestures for backing in browser etc.
 6. Intellij - Store the .ideavimrc file in github
 7. Java latest version
+    a. Maven?
 8. Python (2 & 3)
     a. Pandas
     b. Virtual environments for python 2 and python 3
     c. pip?
     d. Anaconda?
     e. sklearn?
+9. Latex
 
 Try creating script which runs some of this?
